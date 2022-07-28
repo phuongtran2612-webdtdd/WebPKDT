@@ -1,0 +1,57 @@
+﻿@{
+    ViewBag.Title = "DangKy";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+
+<h2></h2>
+
+<table class="table" style="width:90%; border:2px solid black; background-color:cornsilk;margin:10px auto;">
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true)
+        {
+            <tr>
+                <td colspan="2" style="text-align:center; background-color:yellow; color:black; vertical-align:middle;"><h2>ĐĂNG KÝ TÀI KHOẢN</h2></td>
+            </tr>
+            <tr>
+                <td style="text-align:right;">Tên Đăng Nhập: </td>
+                <td><input type="text" name="UserName" class="form-control" /> @ViewData["Loi1"] </td>
+            </tr>
+            <tr>
+                <td style="text-align:right;">Mật Khẩu: </td>
+                <td><input type="password" name="Pass" class="form-control" /> @ViewData["Loi2"]</td>
+            </tr>
+            <tr>
+                <td style="text-align:right;">Nhập Lại Mật Khẩu: </td>
+                <td><input type="password" name="RePass" class="form-control" /> @ViewData["Loi3"]</td>
+            </tr>
+            <tr>
+                <td style="text-align:right;">Họ Tên: </td>
+                <td><input type="text" name="Ten" class="form-control" /> @ViewData["Loi4"]</td>
+            </tr>
+            <tr>
+                <td style="text-align:right;">Email: </td>
+                <td><input type="text" name="Email" class="form-control" /> @ViewData["Loi5"]</td>
+            </tr>
+            <tr>
+                <td style="text-align:right;">Điện Thoại:</td>
+                <td><input type="text" name="SDT" style="width:800px" class="form-control" /></td>
+            </tr>
+            <tr>
+                <td style="text-align:right;"> Giới Tính: </td>
+                @*<td><input type="text" name="GioiTinh" style="width:800px" class="form-control" /></td>*@
+                <td class="radio" style="text-align:left">
+                    <input type="radio" name="GioiTinh" value="Nam" checked>&nbsp;&nbsp;Nam
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="radio" name="GioiTinh" value="Nữ">&nbsp;&nbsp;Nữ
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="radio" name="GioiTinh" value="Khác">&nbsp;&nbsp;Khác
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2"><input type="submit" value="ĐĂNG KÝ" class="btn btn-primary" /></td>
+            </tr>
+        }
+    }
+
+</table>

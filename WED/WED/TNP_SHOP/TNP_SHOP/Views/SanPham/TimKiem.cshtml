@@ -1,0 +1,20 @@
+﻿@{
+    ViewBag.Title = "TimKiem";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+
+<br />
+<h3>Kết quả tìm kiếm dựa trên "@ViewBag.timkiem" </h3><br />
+
+<div class="row" style="border: 1px solid #b0afaf">
+    @foreach (var item in Model)
+    {
+        <div class="col-3 pt-2" style="text-align: center; border: 1px solid black" >
+            <img src="/@item.Hinh" width="200px" height="230px" alt="Image" />
+            <p>
+                <strong title="">@item.TenHang</strong><br />
+                <a href="@Url.Action("XemChiTiet", "SanPham", new { @msp = @item.MaHang })" class="text-primary" style="text-decoration:none">Xem chi tiết</a>
+            </p>
+        </div>
+    }
+</div>

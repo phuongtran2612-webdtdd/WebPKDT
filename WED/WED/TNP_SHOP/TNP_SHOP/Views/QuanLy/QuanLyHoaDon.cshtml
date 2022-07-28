@@ -1,0 +1,10 @@
+﻿@{
+    ViewBag.Title = "QuanLy";
+    Layout = "~/Views/Shared/_LayoutPageQuanLy.cshtml";
+}
+
+<h2>DANH SÁCH HÓA ĐƠN</h2>
+<div>
+    @Html.Action("DanhMucPartial", "QuanLy")
+    @Html.Action("HoaDonPartial", "QuanLy")
+</div>

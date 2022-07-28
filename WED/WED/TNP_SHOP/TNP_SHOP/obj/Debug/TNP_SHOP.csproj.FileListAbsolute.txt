@@ -1,0 +1,158 @@
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\bin\TNP_SHOP.dll
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\bin\TNP_SHOP.pdb
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\obj\Debug\TNP_SHOP.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\obj\Debug\TNP_SHOP.dll
+C:\Users\Admin\Desktop\New folder\TNP_SHOP\TNP_SHOP\obj\Debug\TNP_SHOP.pdb
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\bin\TNP_SHOP.dll.config
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\bin\TNP_SHOP.dll
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\bin\TNP_SHOP.pdb
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\bin\Newtonsoft.Json.dll
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\bin\System.Net.Http.Formatting.dll
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Helpers.dll
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Http.dll
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Http.WebHost.dll
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Mvc.dll
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Razor.dll
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.Deployment.dll
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.dll
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.Razor.dll
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\bin\Newtonsoft.Json.xml
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\bin\System.Net.Http.Formatting.xml
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Helpers.xml
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Http.xml
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Http.WebHost.xml
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Mvc.xml
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Razor.xml
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.xml
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.Deployment.xml
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.Razor.xml
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\obj\Debug\TNP_SHOP.csprojResolveAssemblyReference.cache
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\obj\Debug\TNP_SHOP.dll
+D:\DoAn_Web\WED\TNP_SHOP\TNP_SHOP\obj\Debug\TNP_SHOP.pdb
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\bin\TNP_SHOP.dll
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\bin\TNP_SHOP.pdb
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\bin\Microsoft.Web.Infrastructure.dll
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\bin\Newtonsoft.Json.dll
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Net.Http.Formatting.dll
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Helpers.dll
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Http.dll
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Http.WebHost.dll
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Mvc.dll
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Razor.dll
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.Deployment.dll
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.dll
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.Razor.dll
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\bin\Newtonsoft.Json.xml
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Net.Http.Formatting.xml
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Helpers.xml
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Http.xml
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Http.WebHost.xml
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Mvc.xml
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Razor.xml
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.xml
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.Deployment.xml
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.Razor.xml
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\obj\Debug\TNP_SHOP.csprojResolveAssemblyReference.cache
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\obj\Debug\TNP_SHOP.dll
+D:\Dow\WED\WED\TNP_SHOP\TNP_SHOP\obj\Debug\TNP_SHOP.pdb
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\bin\TNP_SHOP.dll
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\bin\TNP_SHOP.pdb
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\obj\Debug\TNP_SHOP.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\obj\Debug\TNP_SHOP.dll
+C:\Users\Admin\Desktop\WED\WED\TNP_SHOP\TNP_SHOP\obj\Debug\TNP_SHOP.pdb
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\bin\TNP_SHOP.dll.config
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\bin\TNP_SHOP.dll
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\bin\TNP_SHOP.pdb
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Http.dll
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Http.xml
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\obj\Debug\TNP_SHOP.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\obj\Debug\TNP_SHOP.dll
+C:\Users\Admin\Downloads\WED\WED\TNP_SHOP\TNP_SHOP\obj\Debug\TNP_SHOP.pdb
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\bin\TNP_SHOP.dll
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\bin\TNP_SHOP.pdb
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\bin\Microsoft.Web.Infrastructure.dll
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\bin\Newtonsoft.Json.dll
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Net.Http.Formatting.dll
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Helpers.dll
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Http.dll
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Http.WebHost.dll
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Mvc.dll
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Razor.dll
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.Deployment.dll
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.dll
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.Razor.dll
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\bin\Newtonsoft.Json.xml
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Net.Http.Formatting.xml
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Helpers.xml
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Http.xml
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Http.WebHost.xml
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Mvc.xml
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.Razor.xml
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.xml
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.Deployment.xml
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\bin\System.Web.WebPages.Razor.xml
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\obj\Debug\TNP_SHOP.csprojResolveAssemblyReference.cache
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\obj\Debug\TNP_SHOP.dll
+D:\Dow\WED (1)\WED\WED\TNP_SHOP\TNP_SHOP\obj\Debug\TNP_SHOP.pdb

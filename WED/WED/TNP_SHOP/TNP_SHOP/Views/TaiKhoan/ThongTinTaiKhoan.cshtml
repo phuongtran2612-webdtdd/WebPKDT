@@ -1,0 +1,55 @@
+﻿@{
+    ViewBag.Title = "ThongTinTaiKhoan";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+
+@using TNP_SHOP.Models;
+@model TAIKHOAN
+<h2></h2>
+<table class="table" style="width:90%; border:2px solid red; background-color:cornsilk; margin:auto;">
+
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true)
+        var s = @Session["User"] as TAIKHOAN;
+         <tr>
+            <td colspan="2" style="text-align:center; background-color:yellow; color:black; vertical-align:middle;"><h2>THÔNG TIN TÀI KHOẢN</h2></td>
+            </tr>
+        <tr>
+            <td style="text-align:right;">Tên Đăng nhập: </td>
+            <td><input type="text" name="UserName" value="@Session["tdn"]" disabled="true" class="form-control" /></td>
+        </tr>
+         <tr>
+            <td style="text-align:right;">Họ Và Tên: </td>
+            <td><input type="text" name="HoTen" value="@s.Ten" class="form-control" />@ViewData["Loi1"]</td>
+        </tr>
+        <tr>
+            <td style="text-align:right;">Email: </td>
+            <td><input type="text" name="Email" value="@s.Email" class="form-control" />@ViewData["Loi2"]</td>
+        </tr>
+         <tr>
+            <td style="text-align:right;"> Số Điện Thoại: </td>
+            <td><input type="text" name="SDT" value="@s.SDT" class="form-control" />@ViewData["Loi3"]</td>
+        </tr>
+         <tr>
+                <td style="text-align:right;"> Giới Tính: </td>
+                <td class="radio" style="text-align:left">
+                    <input type="radio" name="GioiTinh" value="Nam" checked>&nbsp;&nbsp;Nam
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="radio" name="GioiTinh" value="Nữ">&nbsp;&nbsp;Nữ
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="radio" name="GioiTinh" value="Khác">&nbsp;&nbsp;Khác
+                </td>
+            </tr>
+         <tr>
+            <td style="text-align:right;"> Mật Khẩu hiện tại: </td>
+            <td><input type="password" name="Pass" class="form-control" />@ViewData["Loi4"]</td>
+        </tr>
+        <tr>
+            <td colspan="2"><input type="submit" value="CẬP NHẬT" class="btn btn-primary" /></td>
+        </tr>
+
+
+    }
+
+</table>

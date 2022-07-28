@@ -1,0 +1,24 @@
+﻿@using TNP_SHOP.Models;
+@model List<Loai>
+<div class="card border-dark">
+    <div>@ViewData["tb"]</div>
+    <table class="table">
+        <tr style="background-color:yellow">
+            <th>MÃ LOẠI</th>
+            <th>TÊN LOẠI</th>
+            <th>NOTE</th>
+            <th colspan="3"></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td width="25%">@item.MaLoai</td>
+                <td width="50%">@item.TenLoai</td>
+                <td width="25%">@item.Note</td>
+                <td><a href="@Url.Action("ChiTietLoai", "QuanLy", new { @maloai=item.MaLoai})">Details</a></td>
+                <td>@Html.ActionLink("Delete", "XoaLoai", new { @maloai = item.MaLoai })</td>
+            </tr>
+        }
+        </table>
+   </div>

@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "DoiMatKhauQuanLy";
+    Layout = "~/Views/Shared/_LayoutPageQuanLy.cshtml";
+}
+<h2></h2>
+<table class="table" style="width:90%; border:2px solid red; background-color:cornsilk; margin:auto;">
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true)
+         <tr>
+                <td colspan="2" style="text-align:center; background-color:yellow; color:black; vertical-align:middle;"><h2>ĐỔI MẬT KHẨU</h2></td>
+            </tr>
+        <tr>
+            <td style="text-align:right;">Tên Đăng nhập: </td>
+            <td><input type="text" name="UserName" value="@Session["tdn"]" disabled="true" class="form-control" /></td>
+        </tr>
+         <tr>
+            <td style="text-align:right;">Mật Khẩu Cũ: </td>
+            <td><input type="password" name="PassCu" class="form-control" />@ViewData["Loi1"]</td>
+        </tr>
+        <tr>
+            <td style="text-align:right;">Mật Khẩu Mới: </td>
+            <td><input type="password" name="PassMoi" class="form-control" />@ViewData["Loi2"]</td>
+        </tr>
+         <tr>
+            <td style="text-align:right;"> Nhập Lại Mật Khẩu: </td>
+            <td><input type="password" name="RePass" class="form-control" />@ViewData["Loi3"]</td>
+        </tr>
+        <tr>
+            <td colspan="2"><input type="submit" value="ĐỔI MẬT KHẨU" class="btn btn-primary" /></td>
+        </tr>
+
+
+    }
+
+</table>

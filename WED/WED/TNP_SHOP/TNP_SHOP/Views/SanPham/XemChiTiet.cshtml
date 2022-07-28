@@ -1,0 +1,45 @@
+﻿@model TNP_SHOP.Models.SANPHAM
+
+@{
+    ViewBag.Title = "XemChiTiet";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+<br />
+<h2>THÔNG TIN CHI TIẾT SẢN PHẨM</h2>
+<br />
+<div class="card border-dark">
+    <table class="border-dark mx-3 mt-3 mb-3">
+        <tr class="text-left">
+            <td rowspan="5" width="45%">
+                <img class="card-header" src="@Url.Content("/" + Model.Hinh)" width="100%" height="100%" alt="img" />
+            </td>
+            <td>Tên Sản Phẩm:</td>
+            <td style="font-weight:bold; color:blue; font-size:19px">@Model.TenHang</td>
+        </tr>
+        <tr class="text-left">
+            <td>Hãng Điên Thoại:</td>
+            <td style="color:blue">@Model.Loai.TenLoai</td>
+        </tr>
+        <tr class="text-left">
+            <td>Mô Tả Kỹ Thuật:</td>
+            <td style="color:black">@Model.MoTa</td>
+        </tr>
+        <tr class="text-left">
+            <td>Giá bán:</td>
+            <td style="font-weight:bold; color:red;">@string.Format("{0:0,0}", @Model.Gia) VNĐ</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="@Url.Action("ThemGioHang", "GioHang", new { @msp = Model.MaHang, @strURL = Request.Url.ToString() })">
+                    <input type="submit" value="MUA NGAY" class="btn btn-primary" />
+                </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="@Url.Action("SanPhamPartial", "SanPham")">
+                    <input type="submit" value="MUA TIẾP" class="btn btn-primary" />
+                </a>
+            </td>
+            <td></td>
+        </tr>
+    </table>
+</div>
+
+

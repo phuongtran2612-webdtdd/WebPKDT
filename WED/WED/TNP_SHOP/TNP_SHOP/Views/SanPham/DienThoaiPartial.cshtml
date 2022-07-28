@@ -1,0 +1,6 @@
+﻿@model IEnumerable<TNP_SHOP.Models.Loai>
+
+@foreach (var item in Model)
+{
+    <li class="list-group-item"><a href="@Url.Action("SanPhamTheoLoai", "SanPham", new { @maLoai = item.MaLoai })" style="text-transform:uppercase; text-decoration:none;">@item.TenLoai</a></li>
+}

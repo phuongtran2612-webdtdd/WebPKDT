@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "QuanLy";
+    Layout = "~/Views/Shared/_LayoutPageQuanLy.cshtml";
+}
+@using TNP_SHOP.Models;
+@model List<SANPHAM>
+<h2>DANH SÁCH LOẠI</h2>
+<div>
+    @Html.Action("DanhMucPartial", "QuanLy")
+    <div class="card border-dark">
+    <table class="table">
+        <tr style="background-color:yellow">
+            <th>MÃ HÀNG</th>
+            <th>TÊN HÀNG</th>
+            <th>MÔ TẢ</th>
+            <th>GIÁ</th>
+            <th>HÌNH</th>
+            <th>MÃ LOẠI</th>
+            <th></th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                @using (Html.BeginForm("CapNhatSanPham", "QuanLy", new { @mahang = item.MaHang }))
+                {
+                <td width="5%">@item.MaHang</td>
+                <td width="20%">@item.TenHang</td>
+                <td width="30%">@item.MoTa</td>
+                <td width="10%"><input type="number" name="txtGia" value="@item.Gia" style="padding-left:10px;" /></td>
+                <td width="25%"><img src="/@item.Hinh" width="150px" /></td>
+                <td width="10%">@item.MaLoai</td>
+
+                    <td>@Html.ActionLink("Delete", "XoaSanPham", new { @mahang = item.MaHang })</td>
+                    <td><input type="submit" value="Update" class="btn btn-primary" /></td>
+                }
+
+            </tr>
+        }
+        </table>
+   </div>
+</div>

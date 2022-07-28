@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "DangNhap";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+
+@*<h2></h2>*@
+<table class="table" style="width:90%; border:2px solid black; background-color:cornsilk; margin:auto;">
+
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true)
+         <tr>
+                <td colspan="2" style="text-align:center; background-color:yellow; color:black; vertical-align:middle;"><h2>ĐĂNG NHẬP TÀI KHOẢN</h2></td>
+            </tr>
+        <tr>
+            @*<a href="~/Views/TaiKhoan/DangKy.cshtml">~/Views/TaiKhoan/DangKy.cshtml</a>*@
+            <td style="text-align:right;">Tên Đăng nhập: </td>
+            <td><input type="text" name="UserName" class="form-control" /> @ViewData["Loi1"] </td>
+        </tr>
+        <tr>
+            <td style="text-align:right;">Mật Khẩu: </td>
+            <td><input type="password" name="Pass" class="form-control" />@ViewData["Loi2"]</td>
+        </tr>
+        <tr>
+            <td style="text-align:right;"><input type="checkbox" value="1" checked /></td>
+            <td style="text-align:left">Remember Password</td>
+        </tr>
+        <tr>
+            <td colspan="2"><input type="submit" value="ĐĂNG NHẬP" class="btn btn-primary" /></td>
+        </tr>
+          <tr>
+            <td colspan="2"><a href="/TaiKhoan/DangKy" style="font-weight:bold">Nếu chưa có tài khoản, xin hãy bấm vào đây để đăng ký!</a></td>
+        </tr>
+
+
+    }
+
+</table>
+<h5 style="color:red; text-align:center;">@ViewBag.TB</h5>
+
